@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div>Icons made by <a href="" title="Skyclick">Skyclick</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<div>Profile picture icon made by <a href="" title="Skyclick">Skyclick</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 <!--
 **WellKevin/WellKevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
