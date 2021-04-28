@@ -1,4 +1,5 @@
-### There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle. – Albert Einstein (阿爾伯特．愛因斯坦)
+## There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle. – Albert Einstein
+#### 你的生活可以用两种方式度过：一种是处处没有奇迹，另一种是事事都是奇迹。 - 阿尔伯特．爱因斯坦
 
 <div>Profile picture icon made by <a href="" title="Skyclick">Skyclick</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
